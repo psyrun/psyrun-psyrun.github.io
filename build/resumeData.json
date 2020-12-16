@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Psyяun",
+    "description":" Penetration Testing | Web-app Dev | Exploit Dev | Malware Analysis | CTF | White Hat | Machine learning ",
+    "image":"profilepic.png",
+    "bio":"I'm a computer engineer with full stack development, ML and penetration testing skills. I like to contribute to opensource community platform to make a sustainable and defensive technology.",
+    "contactmessage":"Hi dear, I am kind of busy right now, I will ping you ASAP. Sorry for the d3lay",
+    "email": "bharatkaistha@yahoo.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/psyrun ",
+    "project":"https://github.com/psyrun/repositories",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "#",
+    "resumedownload":"AVAL_ON_DEMAND_ONLY",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/parad0xch3f",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/psyrun",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Hobby",
+    "education":[
+      {
+        "school":"---",
+        "degree":"Mtech-phd",
+        "graduated":"Jul 2020",
+        "description":"Robotics in IT (PhD Exit policy)"
+      },
+      {
+        "school":"---",
+        "degree":"B.E.",
+        "graduated":"Aug 2015",
+        "description":"Computer Science"
+      },
+      {
+        "school":"---",
+        "degree":"Diploma",
+        "graduated":"Jul 2012",
+        "description":"Computer Science"
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"---",
+        "title":"Scientist",
+        "years":"March 2019",
+        "description":"Exploit Dev"
+      },
+      {
+        "company":"---",
+        "title":"Teaching Assistant",
+        "years":"Aug 2016- March 2019",
+        "description":"Assisting AI, Compiler Design, Computer Network and Data mining lab "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Penetration testing",
+        "level":"100%"
+      },
+      {
+        "name":"Malware Analysis",
+        "level":"95%"
+      },
+      {
+        "name":"Web App security testing",
+        "level":"95%"
+      },
+      {
+        "name":"Object oriented programing",
+        "level":"100%"
+      },
+      {
+        "name":"DBMS",
+        "level":"100%"
+      },
+      {
+        "name":"Data Structres",
+        "level":"95%"
+      },
+      {
+        "name":"Deep learning",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"XSS with Deep learning",
+        "category":"Deep learning algorithm to generate XSS attack scripts",
+        "image":"1.png",
+        "url":"https://github.com/psyrun/XSS.Deeplearning"
+      },
+      {
+        "title":"Microsoft Vulnerability Exploitation",
+        "category":"Exposing various cyber ammunation tech to exploit windows platform",
+        "image":"2.png",
+        "url":"https://github.com/psyrun/Microsoft.VulnerabilityExploitation"
+      },
+      {
+        "title":"Cyberwar.live",
+        "category":"Django Website built for sharing latest hacking news, CVE, POC, Ariticles and personal blogs",
+        "image":"3.png",
+        "url":"http://www.cyberwar.live"
+      },
+      {
+        "title":"Sub Domain Finder",
+        "category":"Finding sub-domains ",
+        "image":"5.png",
+        "url":"https://github.com/psyrun/Subdomain.Finder"
+      }
+    ]
+  }
+}
