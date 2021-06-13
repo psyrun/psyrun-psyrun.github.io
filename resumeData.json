@@ -57,38 +57,28 @@
     "work":[
       {
         "company":"---",
-        "title":"CERT-in",
+        "title":"CERT",
         "years":"March 2019",
         "description":"Malware Analyst"
       },
-      {
-        "company":"---",
-        "title":"Teaching Assistant",
-        "years":"Aug 2016- March 2019",
-        "description":"Assisted the Professor in the field of Robotics and cyber security in delivering course material."
-      }
     ],
     "skills":[
       {
         "name":"Penetration testing",
-        "level":"100%"
+        "level":"90%"
       },
       {
         "name":"Malware Analysis",
         "level":"95%"
       },
       {
-        "name":"Information Security",
-        "level":"95%"
+        "name":"Full stack(React/Django)",
+        "level":"9%"
       },
       {
         "name":"SIEM/SOC",
-        "level":"100%"
+        "level":"98                                                                                                                       %"
       },
-      {
-        "name":"Deeplearning",
-        "level":"100%"
-      }
     ]
   },
   "portfolio":{
