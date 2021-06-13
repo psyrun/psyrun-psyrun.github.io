@@ -65,20 +65,20 @@
     "skills":[
       {
         "name":"Penetration testing",
-        "level":"90%"
+        "level":"97%"
       },
       {
         "name":"Malware Analysis",
         "level":"95%"
       },
       {
-        "name":"Full stack(React-Django)",
-        "level":"94%"
+        "name":"Full Stack (Django/React)",
+        "level":"96%"
       },
       {
         "name":"SIEM/SOC",
-        "level":"98"                                                                                                                      %"
-      },
+        "level":"98%"
+      }
     ]
   },
   "portfolio":{
