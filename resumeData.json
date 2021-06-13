@@ -57,22 +57,22 @@
     "work":[
       {
         "company":"---",
-        "title":"CERT-in",
+        "title":"CERT",
         "years":"March 2019",
-        "description":"Malware Analyst"
+        "description":"Malware Analysis"
       }
     ],
     "skills":[
       {
         "name":"Penetration testing",
-        "level":"100%"
+        "level":"90%"
       },
       {
         "name":"Malware Analysis",
         "level":"95%"
       },
       {
-        "name":"Information Security",
+        "name":"Full Stack (React-Django)",
         "level":"95%"
       },
       {
