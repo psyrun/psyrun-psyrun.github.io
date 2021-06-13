@@ -60,7 +60,7 @@
         "title":"CERT",
         "years":"March 2019",
         "description":"Malware Analyst"
-      },
+      }
     ],
     "skills":[
       {
@@ -72,7 +72,7 @@
         "level":"95%"
       },
       {
-        "name":"Full stack(React/Django)",
+        "name":"Full stack(React-Django)",
         "level":"94%"
       },
       {
